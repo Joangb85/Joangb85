@@ -1,5 +1,3 @@
-# Joan Granados Bonafonte
-
 QA Engineer with almost 7 years of experience in the Software Testing field.
 My current work goal is to carry on working and learning on the IT sector, through projects with programming tasks or automated testing.
 
